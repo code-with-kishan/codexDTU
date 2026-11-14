@@ -503,7 +503,7 @@ timeline
 
 ---
 
-## 👥 Team 0xDEADCODE
+## 👥 Team Codex (SOLO Member)
 
 <div align="center">
 
@@ -511,7 +511,7 @@ timeline
 |---|---|
 | 🧑‍✈️ Team Lead | Kishan Nishad |
 
-**📧 knishad0004@gmail.com** &nbsp;|&nbsp; **Problem Statement:** Open Innovation — PS #6 Wildcard Innovation Challenge
+**📧 knishad0004@gmail.com** &nbsp;|&nbsp; **Problem Statement:** Open Innovation
 
 </div>
 
