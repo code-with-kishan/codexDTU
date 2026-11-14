@@ -510,9 +510,6 @@ timeline
 | Role | Name |
 |---|---|
 | 🧑‍✈️ Team Lead | Kishan Nishad |
-| 👨‍💻 Member | Lav Soni |
-| 👨‍💻 Member | Rishi Kumar |
-| 👨‍💻 Member | Dhruv Gupta |
 
 **📧 knishad0004@gmail.com** &nbsp;|&nbsp; **Problem Statement:** Open Innovation — PS #6 Wildcard Innovation Challenge
 
@@ -535,7 +532,7 @@ timeline
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
 
-### Made with 🔥 by Team 0xDEADCODE — **PIXORA**
+### Made with 🔥 by Kishan Nishad — **PIXORA**
 
 </div>
 # codexDTU
