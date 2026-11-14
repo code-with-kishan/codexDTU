@@ -12,8 +12,8 @@
 
 <br/>
 
-![Team](https://img.shields.io/badge/Team-0xDEADCODE-6f42c1?style=for-the-badge&logo=github)
-![Track](https://img.shields.io/badge/PS%20%236-Wildcard%20Innovation%20Challenge-ff5e5e?style=for-the-badge)
+![Team](https://img.shields.io/badge/Team-codex-6f42c1?style=for-the-badge&logo=github)
+![Track](https://img.shields.io/badge/PS%20%236-open%20Innovation%20Challenge-ff5e5e?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Live%20Prototype-brightgreen?style=for-the-badge&logo=vercel)
 ![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
 
@@ -28,7 +28,7 @@
 ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white)
 ![WebAR](https://img.shields.io/badge/model--viewer-WebAR-orange?style=flat-square)
 
-<h3>🚀 <a href="#">Live Demo</a> &nbsp;|&nbsp; 🎥 <a href="#">Watch the Pitch</a> &nbsp;|&nbsp; 📦 <a href="#">GitHub Repo</a> &nbsp;|&nbsp; 🧭 <a href="#">Architecture Docs</a></h3>
+<h3>🚀 <a href="#">Live Demo</a> &nbsp;|&nbsp; 🎥 <a href="#">Read the Features</a> &nbsp;|&nbsp; 📦 <a href="#">GitHub Repo</a> &nbsp;|&nbsp; 🧭 <a href="#">Architecture Docs</a></h3>
 
 </div>
 
